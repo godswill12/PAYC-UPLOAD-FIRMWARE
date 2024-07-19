@@ -1,0 +1,5 @@
+{
+  "type": "esp32-fota",
+  "version": 1,
+  "bin": "https://godswill12.github.io/PAYC-UPLOAD-FIRMWARE/firmware.bin"
+}
