@@ -1,5 +1,5 @@
 {
   "type": "esp32",
   "version": "2",
-  "url": "https://godswill12.github.io/PAYC-UPLOAD-FIRMWARE/ota_test.ino.bin"
+  "url": "https://raw.githubusercontent.com/godswill12/PAYC-UPLOAD-FIRMWARE/gh-pages/ota_test.ino.bin"
 }
