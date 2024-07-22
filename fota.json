@@ -1,0 +1,5 @@
+{
+    "type": "esp32-fota-http",
+    "version": "2",
+    "url": "https://godswill12.github.io/PAYC-UPLOAD-FIRMWARE/firmwareV2.bin"
+}
