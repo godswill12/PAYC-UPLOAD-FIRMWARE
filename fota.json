@@ -1,5 +1,5 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "url": "https://your-project-name.vercel.app/firmwareV2.bin"
+    "url": "https://payc-upload-firmware.vercel.app/firmwareV2.bin"
 }
